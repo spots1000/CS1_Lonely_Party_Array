@@ -1,0 +1,2 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 36, fragments: 3)
+-> The LonelyPartyArray has returned to the void.

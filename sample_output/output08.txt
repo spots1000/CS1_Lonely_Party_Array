@@ -1,0 +1,9 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 36, fragments: 3)
+-> Spawned fragment 2. (capacity: 12, indices: 24..35)
+-> Spawned fragment 0. (capacity: 12, indices: 0..11)
+412
+412
+83644
+83644
+93899
+-> The LonelyPartyArray has returned to the void.

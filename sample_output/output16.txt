@@ -1,0 +1,28 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 110, fragments: 11)
+
+-> Spawned fragment 3. (capacity: 10, indices: 30..39)
+-> Spawned fragment 8. (capacity: 10, indices: 80..89)
+-> Spawned fragment 9. (capacity: 10, indices: 90..99)
+-> Spawned fragment 10. (capacity: 10, indices: 100..109)
+
+-> Bloop! Invalid access in set(). (index: -1, fragment: 0, offset: -1)
+-> Bloop! Invalid access in get(). (index: -1, fragment: 0, offset: -1)
+-> Bloop! Invalid access in delete(). (index: -1, fragment: 0, offset: -1)
+
+-> Bloop! Invalid access in set(). (index: -9, fragment: 0, offset: -9)
+-> Bloop! Invalid access in get(). (index: -9, fragment: 0, offset: -9)
+-> Bloop! Invalid access in delete(). (index: -9, fragment: 0, offset: -9)
+
+-> Bloop! Invalid access in set(). (index: -10, fragment: -1, offset: 0)
+-> Bloop! Invalid access in get(). (index: -10, fragment: -1, offset: 0)
+-> Bloop! Invalid access in delete(). (index: -10, fragment: -1, offset: 0)
+
+-> Bloop! Invalid access in set(). (index: -11, fragment: -1, offset: -1)
+-> Bloop! Invalid access in get(). (index: -11, fragment: -1, offset: -1)
+-> Bloop! Invalid access in delete(). (index: -11, fragment: -1, offset: -1)
+
+-> Bloop! Invalid access in set(). (index: -321, fragment: -32, offset: -1)
+-> Bloop! Invalid access in get(). (index: -321, fragment: -32, offset: -1)
+-> Bloop! Invalid access in delete(). (index: -321, fragment: -32, offset: -1)
+
+-> The LonelyPartyArray has returned to the void.

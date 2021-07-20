@@ -1,0 +1,17 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 100000000, fragments: 10000)
+-> Spawned fragment 5. (capacity: 10000, indices: 50000..59999)
+-> Spawned fragment 2. (capacity: 10000, indices: 20000..29999)
+-> Spawned fragment 62. (capacity: 10000, indices: 620000..629999)
+-> Spawned fragment 7. (capacity: 10000, indices: 70000..79999)
+-> Spawned fragment 82. (capacity: 10000, indices: 820000..829999)
+166
+534
+93
+63
+987
+Size: 5
+Capacity: 100000000
+Allocated Cells: 50000
+Traditional Array Size: 400000000 bytes
+Lonely Party Array Size: 320040 bytes
+-> The LonelyPartyArray has returned to the void.

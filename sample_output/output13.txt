@@ -1,0 +1,19 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 2000000000, fragments: 20000)
+-> Spawned fragment 0. (capacity: 100000, indices: 0..99999)
+-> Spawned fragment 6. (capacity: 100000, indices: 600000..699999)
+-> Spawned fragment 8. (capacity: 100000, indices: 800000..899999)
+-> Bloop! Invalid access in set(). (index: 2000000000, fragment: 20000, offset: 0)
+-> Bloop! Invalid access in set(). (index: 2000000001, fragment: 20000, offset: 1)
+-> Spawned fragment 19999. (capacity: 100000, indices: 1999900000..1999999999)
+166
+534
+93
+63
+987
+9455
+Size: 6
+Capacity: 2000000000
+Allocated Cells: 400000
+Traditional Array Size: 8000000000 bytes
+Lonely Party Array Size: 1840040 bytes
+-> The LonelyPartyArray has returned to the void.

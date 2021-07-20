@@ -1,0 +1,7 @@
+-> A new LonelyPartyArray has emerged from the void. (capacity: 36, fragments: 3)
+-> Spawned fragment 1. (capacity: 12, indices: 12..23)
+-> Bloop! Invalid access in set(). (index: 36, fragment: 3, offset: 0)
+-> Bloop! Invalid access in set(). (index: 48, fragment: 4, offset: 0)
+-> Bloop! Invalid access in set(). (index: 49, fragment: 4, offset: 1)
+-> Bloop! Invalid access in set(). (index: 59, fragment: 4, offset: 11)
+-> The LonelyPartyArray has returned to the void.
